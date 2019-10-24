@@ -10,6 +10,7 @@ nil
 end
 
 def find_max_value(array)
+  x = array[0]
   
  
 end
