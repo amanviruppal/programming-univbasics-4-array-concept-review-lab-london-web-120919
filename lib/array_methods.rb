@@ -26,5 +26,5 @@ def find_min_value(array)
     y = array[index]
   end
   }
-  y
+  y 
 end
